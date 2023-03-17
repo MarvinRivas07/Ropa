@@ -1,0 +1,8 @@
+C:\Users\Marvi\Desktop\PROGRA lll\Ropaa\Ropaa\bin\Debug\Ropaa.exe.config
+C:\Users\Marvi\Desktop\PROGRA lll\Ropaa\Ropaa\bin\Debug\Ropaa.exe
+C:\Users\Marvi\Desktop\PROGRA lll\Ropaa\Ropaa\bin\Debug\Ropaa.pdb
+C:\Users\Marvi\Desktop\PROGRA lll\Ropaa\Ropaa\obj\Debug\Ropaa.csproj.AssemblyReference.cache
+C:\Users\Marvi\Desktop\PROGRA lll\Ropaa\Ropaa\obj\Debug\Ropaa.csproj.SuggestedBindingRedirects.cache
+C:\Users\Marvi\Desktop\PROGRA lll\Ropaa\Ropaa\obj\Debug\Ropaa.csproj.CoreCompileInputs.cache
+C:\Users\Marvi\Desktop\PROGRA lll\Ropaa\Ropaa\obj\Debug\Ropaa.exe
+C:\Users\Marvi\Desktop\PROGRA lll\Ropaa\Ropaa\obj\Debug\Ropaa.pdb
